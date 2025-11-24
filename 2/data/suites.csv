@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","372","Авторизаиця с недействительными учетными данными","tests","Mon Nov 24 15:33:37 UTC 2025","passed","Mon Nov 24 15:33:37 UTC 2025","","test_login","",""
+"","331","test_todo[chromium]","","Mon Nov 24 15:33:37 UTC 2025","passed","Mon Nov 24 15:33:37 UTC 2025","","test_todo","",""
+"","310","Авторизаиця с корректными учетными данными","tests","Mon Nov 24 15:33:37 UTC 2025","passed","Mon Nov 24 15:33:38 UTC 2025","","test_login","",""
+"","251","Авторизаиця с корректными учетными данными","tests","Mon Nov 24 15:33:38 UTC 2025","passed","Mon Nov 24 15:33:38 UTC 2025","","test_login","",""
